@@ -44,11 +44,12 @@
 
 ---
 
-## 📫 Connect with Me
 
-- LinkedIn:https://www.linkedin.com/in/khushi-kumari33/
-- Email:khushikumari5579@gmail.com
+## 🌐 Connect with Me
 
+<a href="https://www.linkedin.com/in/khushi-kumari33/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <!--
 **khusbu582/khusbu582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
