@@ -1,10 +1,9 @@
-# Hi 👋, I'm Skye
+# Hi 👋, I'm Khushi
 
 🎓 B.Tech Student
-💻 Aspiring Software Developer
-🌱 Currently learning React, DSA & Web Development
-🚀 Passionate about building projects and solving coding problems.
-
+💻 Web Developer | C++ Programmer
+🌱 Learning React, Data Structures & Algorithms
+🚀 Building projects and improving problem-solving skills
 ---
 
 ## 🚀 About Me
@@ -47,8 +46,8 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn:
-- Email:
+- LinkedIn:https://www.linkedin.com/in/khushi-kumari33/
+- Email:khushikumari5579@gmail.com
 
 <!--
 **khusbu582/khusbu582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
